@@ -1,6 +1,6 @@
 # Hi, I'm Priyanka Mishra 👋
 
-### Data Analyst | BFSI Domain | Python · SQL · Power BI · Excel
+### Data Analyst |  Python · SQL · Power BI · Excel
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-priyankaofficial-1a56db?style=flat-square)](https://www.datascienceportfol.io/priyankaofficial)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-mishra-data-analyst)
