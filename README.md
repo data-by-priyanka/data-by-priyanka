@@ -32,15 +32,16 @@ Now I build end-to-end analytics projects, combining business domain knowledge w
 
 ## 📂 Featured Projects
 
-### 🛍️ Retail Customer Behaviour Analysis
+###  Retail Customer Behaviour Analysis
 > End-to-end analysis of ~3,900 rows of shopping data to identify purchase patterns, customer segments, and seasonal trends.
 
 **Stack:** Python · MySQL · Power BI · Excel  
 **What I did:** Data cleaning in Pandas → 15+ SQL queries for segmentation → Power BI interactive dashboard → Excel executive summary
+🔗 [View Repository](https://github.com/data-by-priyanka/retail-customer-behaviour-analysis)
 
 ---
 
-### 🚴 Cyclistic Bike-Share Analysis *(Google Capstone)*
+###  Cyclistic Bike-Share Analysis *(Google Capstone)*
 > Analysed how casual riders vs annual members use Cyclistic differently — and proposed a data-backed marketing strategy.
 
 **Stack:** Python · SQL · Power BI · Jupyter Notebook  
@@ -48,45 +49,34 @@ Now I build end-to-end analytics projects, combining business domain knowledge w
 
 ---
 
-### 🛒 E-Commerce Sales Intelligence
-> Revenue performance analysis identifying top SKUs, regional breakdowns, and month-on-month growth trends.
-
-**Stack:** Excel · Power Query · SQL · Python  
-**Key insight:** Top 20% of products drove 80% of revenue (Pareto principle in action)
-
----
 
 ## 📜 Certifications
 
-- 🏆 **Google Data Analytics** — Coursera / Google, 2024
-- 🏆 **Google Advanced Data Analytics** — Coursera / Google, 2024
-- 🏆 **IBM Data Analyst Professional Certificate** — Coursera / IBM, 2024
+- **IBM Data Analyst Professional Certificate** — Coursera / IBM
+  🔗 [View Certificate](https://coursera.org/share/efda108331291b7d5bf687c679152c30)
+- **Google Advanced Data Analytics** — Coursera / Google
+  🔗 [View Certificate](https://coursera.org/share/2190d84b7adf590d7839050bbe307f18)
+- **Google Data Analytics** — Coursera / Google
+  🔗 [View Certificate](https://coursera.org/share/461a4f13b1416e5904030a520935c175)
 
 ---
 
 ## 🎓 Education
 
-- **MBA** — Rural Management & Entrepreneurship Development (2021–2023)
-- **B.Sc.** — Biotechnology (2017–2021)
+- **MBA** — Rural Management & Entrepreneurship Development (2019–2021)
+- **B.Sc.** — Biotechnology (2016–2019)
 
 ---
 
 ## 💼 Work Experience
 
-**Relationship Officer · SBI Securities Ltd.** *(2023–2024)*  
+**Relationship Officer · SBI Securities Ltd.**
 - Managed data and reporting for 200+ client portfolios
 - Built weekly Excel reports for branch management, reducing manual effort by ~40%
 - Used data insights to drive 15% increase in product adoption
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=data-by-priyanka&show_icons=true&hide_border=true&title_color=1a56db&icon_color=0d9488&text_color=3a3d4a&bg_color=fafaf8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=data-by-priyanka&layout=compact&hide_border=true&title_color=1a56db&text_color=3a3d4a&bg_color=fafaf8)
-
----
 
 ## 📫 Let's Connect
 
@@ -94,8 +84,8 @@ I'm actively looking for **Data Analyst** roles — full-time or contract, in No
 
 Feel free to reach out:
 - 📧 [priyankaofficial010@gmail.com](mailto:priyankaofficial010@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/priyanka-mishra-data-analyst)
-- 🌐 [Portfolio Website](https://data-by-priyanka.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/data-by-priyanka/)
+- 🌐 [Portfolio Website](https://www.datascienceportfol.io/priyankaofficial)
 
 ---
 
